@@ -1,5 +1,5 @@
 # WebApp para teste pipeline Rancher
-FROM alpine:latest
+FROM ubuntu
 
 LABEL maintainer="amioranza@mdcnet.ninja"
 LABEL description="webapp container"
